@@ -1,7 +1,7 @@
 # app-dev
 My first repository
-1. Favorite Series/Movies.
-   - Spider Man Series.
+- Favorite Series/Movies.
+  - Spider Man Series.
      ![Spider Man Film Series Characters](https://images.thedirect.com/media/article_full/spider-man-characters-0.jpg)
      > The fictional character Spider Man, a comic book ***superhero*** created by *Stan Lee* and *Steve Ditko* and featured in **Marvel Comics** publications, has appeared as a main character in numerous theatrical and made for televesion films.
      > 
